@@ -1,0 +1,8 @@
+{
+  "name": "KidoEnglish AI",
+  "description": "Ứng dụng học tiếng Anh thông minh cho bé từ lớp 2-9 với trợ lý Gấu Teddy AI, lộ trình cá nhân hóa và game hóa học tập.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
